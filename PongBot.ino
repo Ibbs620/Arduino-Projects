@@ -1,5 +1,5 @@
   /*
-   * Program for a double pong playing bot for the Arduino Uno
+   * Program for a 1-player pong game against a bot for the Arduino Uno
    * 
    * This code assumes you are using the MAX7219 LED Dot Matrix. If you have the standard one, you may need to reprogram.
    * 
